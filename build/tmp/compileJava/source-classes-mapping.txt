@@ -1,0 +1,14 @@
+fju/student/Hello.java
+ fju.student.Hello
+fju/student/GraduateStudent.java
+ fju.student.GraduateStudent
+fju/student/Student.java
+ fju.student.Student
+fju/customer/Customer.java
+ fju.customer.Customer
+fju/student/Person.java
+ fju.student.Person
+fju/customer/SilverCustomer.java
+ fju.customer.SilverCustomer
+fju/customer/Tester.java
+ fju.customer.Tester
