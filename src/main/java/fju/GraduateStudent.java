@@ -1,7 +1,10 @@
 package fju;
 
 public class GraduateStudent extends Student{
-    public GraduateStudent() {
-        super();
+    int thesis;
+
+    public GraduateStudent(String id, String name, int english, int math, int thesis) {
+        super(id, name, english, math);
+        this.thesis = thesis;
     }
 }

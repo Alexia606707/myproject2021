@@ -11,11 +11,12 @@ public class Hello {
                 new Student("1103", "Jane", 60, 80),
                 new Student("1104", "Jack", 60, 80),
         };
-
-        GraduateStudent graduateStudents = new GraduateStudent();
-
         for (int i = 0; i < students.length; i++) {
             students[i].print();
         }
+
+        GraduateStudent graduateStudents = new GraduateStudent("5101", "Hank", 60, 80, 90);
+        graduateStudents.print();
+
     }
 }
