@@ -1,4 +1,4 @@
-package fju.student;
+package fju.hello;
 
 public class Person {
     public void hello() {

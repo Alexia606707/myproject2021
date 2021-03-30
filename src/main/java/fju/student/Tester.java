@@ -1,10 +1,7 @@
 package fju.student;
 
-public class Hello {
+public class Tester {
     public static void main(String[] args) {
-        Person p = new Person();
-        p.hello();
-
         Student[] students = {
                 new Student("1101", "Eric", 60, 80),
                 new Student("1102", "Hank", 60, 80),

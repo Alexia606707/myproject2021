@@ -1,14 +1,18 @@
-fju/student/Hello.java
- fju.student.Hello
+fju/customer/Tester.java
+ fju.customer.Tester
 fju/student/GraduateStudent.java
  fju.student.GraduateStudent
 fju/student/Student.java
  fju.student.Student
 fju/customer/Customer.java
  fju.customer.Customer
-fju/student/Person.java
- fju.student.Person
+fju/student/Mailer.java
+ fju.student.Mailer
 fju/customer/SilverCustomer.java
  fju.customer.SilverCustomer
-fju/customer/Tester.java
- fju.customer.Tester
+fju/student/Tester.java
+ fju.student.Tester
+fju/hello/Hello.java
+ fju.hello.Hello
+fju/hello/Person.java
+ fju.hello.Person
