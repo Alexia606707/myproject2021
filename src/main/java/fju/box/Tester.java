@@ -16,5 +16,10 @@ public class Tester {
         int height = scanner.nextInt();
         System.out.println("Length: " + length +  ", Width: " + width + ", Height: " + height);
 
+        if (box3.validate(length, width, height)) {
+            System.out.println(box3.getName() + " $" + box3.getPrice());
+        } else if (box5.validate(length, width, height)){
+            System.out.println(box5.getName() + " $" + box5.getPrice());
+        }
     }
 }
