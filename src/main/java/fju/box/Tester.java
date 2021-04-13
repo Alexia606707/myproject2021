@@ -10,9 +10,9 @@ public class Tester {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter object's length:");
         int length = scanner.nextInt();
-        System.out.println("Please enter object's length:");
+        System.out.println("Please enter object's width:");
         int width = scanner.nextInt();
-        System.out.println("Please enter object's length:");
+        System.out.println("Please enter object's height:");
         int height = scanner.nextInt();
         System.out.println("Length: " + length +  ", Width: " + width + ", Height: " + height);
 
