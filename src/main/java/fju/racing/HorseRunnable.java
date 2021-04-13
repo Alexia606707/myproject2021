@@ -1,10 +1,10 @@
 package fju.racing;
 
-public class Horse extends Thread{
+public class HorseRunnable implements Runnable{
     @Override
     public void run() {
         for (int i = 0; i < 10000; i++) {
-            System.out.println(getName() + " " + i);
+            System.out.println("R " + i);
         }
     }
 }

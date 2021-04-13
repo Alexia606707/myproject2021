@@ -26,5 +26,7 @@ fju/box/Tester.java
  fju.box.Tester
 fju/racing/Horse.java
  fju.racing.Horse
+fju/racing/HorseRunnable.java
+ fju.racing.HorseRunnable
 fju/racing/Racing.java
  fju.racing.Racing
