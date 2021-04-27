@@ -30,10 +30,16 @@ fju/customer/SilverCustomer.java
  fju.customer.SilverCustomer
 fju/customer/Customer.java
  fju.customer.Customer
+test/Box5.java
+ test.Box5
+test/Box3.java
+ test.Box3
 test/Box2.java
  test.Box2
 test/Box1.java
  test.Box1
+test/Box4.java
+ test.Box4
 test/Box.java
  test.Box
 test/Tester.java
