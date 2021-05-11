@@ -56,3 +56,5 @@ fju/a/Reporter.java
  fju.a.Reporter
 fju/a/Tester.java
  fju.a.Tester
+ fju.a.Tester$1
+ fju.a.Tester$2
