@@ -16,8 +16,8 @@ test/Box5.java
  test.Box5
 fju/box/Box5.java
  fju.box.Box5
-test/Tester.java
- test.Tester
+fju/collection/TreeSet.java
+ fju.collection.TreeSet
 test/Box2.java
  test.Box2
 fju/collection/Tester.java
@@ -30,6 +30,8 @@ fju/box/Box3.java
  fju.box.Box3
 fju/student/Tester.java
  fju.student.Tester
+fju/student/Mailer.java
+ fju.student.Mailer
 fju/hello/Hello.java
  fju.hello.Hello
 fju/student/Student.java
@@ -40,21 +42,25 @@ fju/box/Tester.java
  fju.box.Tester
 fju/customer/Tester.java
  fju.customer.Tester
+test/Tester.java
+ test.Tester
 fju/hello/Person.java
  fju.hello.Person
 fju/racing/Racing.java
  fju.racing.Racing
-fju/student/Mailer.java
- fju.student.Mailer
-fju/collection/TreeSet.java
- fju.collection.TreeSet
-fju/a/WeatherReporter.java
- fju.a.WeatherReporter
-fju/a/HeheheReporter.java
- fju.a.HeheheReporter
-fju/a/Reporter.java
- fju.a.Reporter
-fju/a/Tester.java
- fju.a.Tester
- fju.a.Tester$1
- fju.a.Tester$2
+fju/anon/HeheheReporter.java
+ fju.anon.HeheheReporter
+fju/anon/Tester.java
+ fju.anon.Tester
+ fju.anon.Tester$1
+ fju.anon.Tester$2
+fju/anon/WeatherReporter.java
+ fju.anon.WeatherReporter
+fju/anon/Reporter.java
+ fju.anon.Reporter
+fju/car/Car.java
+ fju.car.Car
+fju/car/Tester.java
+ fju.car.Tester
+fju/car/Tester1.java
+ fju.car.Tester1

@@ -1,4 +1,4 @@
-package fju.a;
+package fju.anon;
 
 public class Tester {
     public static void main(String[] args) {
