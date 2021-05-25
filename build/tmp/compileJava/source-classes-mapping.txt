@@ -64,3 +64,5 @@ fju/car/Tester.java
  fju.car.Tester
 fju/car/Tester1.java
  fju.car.Tester1
+fju/car/MapTester.java
+ fju.car.MapTester
