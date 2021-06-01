@@ -1,4 +1,4 @@
-package test;
+package fju.boxtest;
 
 public class Box {
     String name;

@@ -1,11 +1,10 @@
 package fju.collection;
 
-import test.Box;
-import test.Box1;
-import test.Box2;
+import fju.boxtest.Box;
+import fju.boxtest.Box1;
+import fju.boxtest.Box2;
 
 import java.util.ArrayList;
-import java.util.TreeSet;
 
 public class Tester {
     public static void main(String[] args) {
