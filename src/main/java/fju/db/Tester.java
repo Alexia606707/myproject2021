@@ -10,7 +10,7 @@ public class Tester {
             //Driver
             Class.forName("org.mariadb.jdbc.Driver");
             //Connection
-            Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost:3306/demo?user=root&password=rebeccacat0717");
+            Connection connection = DriverManager.getConnection("jdbc:mariadb://localhost:3306/demo?user=root&password=123456&useUnicode=true&characterEncoding=UTF-8");
             Statement statement = connection.createStatement();
 //            statement.executeUpdate("insert into students values('00001', 'Hank')");
             //
