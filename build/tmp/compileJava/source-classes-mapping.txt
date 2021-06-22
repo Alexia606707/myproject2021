@@ -70,3 +70,7 @@ fju/car/CarDemo.java
  fju.car.CarDemo
 fju/boxtest/Box1.java
  fju.boxtest.Box1
+fju/net/Tester.java
+ fju.net.Tester
+fju/db/Tester.java
+ fju.db.Tester
