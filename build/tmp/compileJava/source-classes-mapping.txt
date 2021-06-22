@@ -72,9 +72,9 @@ fju/boxtest/Box1.java
  fju.boxtest.Box1
 fju/net/Tester.java
  fju.net.Tester
-fju/db/Tester.java
- fju.db.Tester
-fju/db/Drink.java
- fju.db.Drink
 fju/db/DrinkTester.java
  fju.db.DrinkTester
+fju/db/Drink.java
+ fju.db.Drink
+fju/db/Tester.java
+ fju.db.Tester
